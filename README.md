@@ -1,6 +1,6 @@
 # Hi there, I'm Kamal - aka [codeSTACKr][youtube] 👋 
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Web developer, Machine Learning enthusiast, Blockchain Developer, and Some1 who loves Technology!!
 
 - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
