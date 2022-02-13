@@ -1,4 +1,4 @@
-# Hi there, I'm Jesse - aka [codeSTACKr][youtube] 👋 
+# Hi there, I'm Kamal - aka [codeSTACKr][youtube] 👋 
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
