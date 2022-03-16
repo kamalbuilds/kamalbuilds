@@ -1,11 +1,6 @@
 # Hi there, I'm Kamal  👋 
 
 
-
-[![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme)
-[![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
-
-
 ## I'm a  MERN Full stack Developer, and a Coder !!
 
 - 🌱 I’m currently learning everything 🤣
@@ -14,7 +9,13 @@
 - ⚡ Fun fact: I love to  play guitar and play chess
 
 
-### Connect with me:
+### Connect with me: <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />**
+<p align="left">
+  <a href="https://www.linkedin.com/in/aryan-goyal-3895021b8/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Vaibhav Goel" height="40" width="40" /></a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/i_aryangoyal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Vaibhav Goel" height="40" width="40" /></a> &nbsp;&nbsp;
+  
+</p>
+<br><br>
 
 [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
