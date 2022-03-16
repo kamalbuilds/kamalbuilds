@@ -11,8 +11,8 @@
 
 ### Connect with me: <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />**
 <p align="left">
-  <a href="https://www.linkedin.com/in/aryan-goyal-3895021b8/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Vaibhav Goel" height="40" width="40" /></a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/i_aryangoyal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Vaibhav Goel" height="40" width="40" /></a> &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kamal-singh-5a61ba224/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Vaibhav Goel" height="40" width="40" /></a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/kamal_coder/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Vaibhav Goel" height="40" width="40" /></a> &nbsp;&nbsp;
   
 </p>
 <br><br>
