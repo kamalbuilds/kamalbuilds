@@ -47,7 +47,7 @@ I am someone greatly fascinated by new technology and framework. Love changing i
 </p>
 
 ### Socials
-<img align="right" src="https://github.com/legendarykamal/legendarykamal/blob/master/developer.gif" width="350px" >  
+<img align="right" src="https://github.com/legendarykamal/legendarykamal/blob/master/developer.gif" width="330px" >  
 <p align="left"> 
  <a href="https://www.dev.to/kamalthedev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> 
  <a href="https://discord.com/users/onmyway007#7874" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
