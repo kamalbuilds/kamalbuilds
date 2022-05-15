@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/kamal-singh-5a61ba224/">
   <img src="https://img.shields.io/badge/Linkedin-Kamal%20Nayan-blue?style=for-the-badge&logo=linkedin">
 </a>
-
+<img align="right" height="500px" src="https://github.com/legendarykamal/legendarykamal/blob/master/developer.gif" >
 ## I'm a  MERN Full stack Developer, and a Coder !!
 
 - 🌱 I’m currently learning everything 🤣
