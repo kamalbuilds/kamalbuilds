@@ -62,6 +62,13 @@ I am someone greatly fascinated by new technology and framework. Love changing i
 
 <a href="http://www.github.com/legendarykamal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=legendarykamal&stroke=f97316&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=f97316&currStreakLabel=0891b2&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
 
-<a href="http://www.github.com/legendarykamal"><img src="https://activity-graph.herokuapp.com/graph?username=legendarykamal&bg_color=1c1917&color=f97316&line=84cc16&point=f97316&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+ <img src="https://activity-graph.herokuapp.com/graph?username=legendarykamal&theme=monokai&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
+
+
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=legendarykamal&label=Profile%20views&color=0e75b6&style=for-the-badge&color=000000" alt="kamal' profile views" />
+</p>
+
 
 <a href="https://github.com/legendarykamal" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=legendarykamal&langs_count=10&title_color=0891b2&text_color=f97316&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
