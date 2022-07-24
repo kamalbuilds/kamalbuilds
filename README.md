@@ -1,6 +1,8 @@
+
+![Gradient Elegant Professional Gamer Twitter Header](https://user-images.githubusercontent.com/95926324/180631183-b86ee2b8-b02b-4a31-9800-c0d291ea0c74.png)
+
 Hi 👋 My name is KAMAL
 ======================
-
 Full Stack MERN Developer and A Blockchain dev
 ----------------------------------------------
 
@@ -9,13 +11,13 @@ I am someone greatly fascinated by new technology and framework. Love changing i
 * 🌍  I'm based in delhi
 * 🖥️  See my portfolio at [Kamal@Portfolio](http://kamalthedev.netlify.app/)
 * ✉️  You can contact me at [geniusamansingh@gmail.com](mailto:geniusamansingh@gmail.com)
-* 🚀  I'm currently working on [Kamazon](http://github.com/legendarykamal/kamalzon)
+* 🚀  I'm currently working on doing open source contributions
 * 🧠  I'm learning NextJS with typescript
 * 🤝  I'm open to collaborating on Open Source Projects
 
 ### Skills
 
-<p align="left">
+<p align="center">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
