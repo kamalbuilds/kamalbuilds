@@ -66,7 +66,7 @@ I am someone greatly fascinated by new technology and framework. Love changing i
 ![](https://raw.githubusercontent.com/legendarykamal/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 <a href="http://www.github.com/legendarykamal"><img src="https://github-readme-stats.vercel.app/api?username=legendarykamal&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=f97316&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="legendarykamal's GitHub stats" align="right" /></a>
-
+<br />
 <a href="http://www.github.com/legendarykamal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=legendarykamal&stroke=f97316&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=f97316&currStreakLabel=0891b2&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
 
  <img src="https://activity-graph.herokuapp.com/graph?username=legendarykamal&theme=monokai&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
