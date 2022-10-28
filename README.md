@@ -69,6 +69,8 @@ I am someone greatly fascinated by new technology and framework. Love changing i
 
 <br /> <br />
 
+[![@kamalthedev's Holopin board](https://holopin.me/kamalthedev)](https://holopin.io/@kamalthedev)
+
  <img src="https://activity-graph.herokuapp.com/graph?username=legendarykamal&theme=monokai&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%" align="center" />
 
 
