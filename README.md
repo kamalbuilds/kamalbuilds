@@ -1,7 +1,8 @@
 
 ![Gradient Elegant Professional Gamer Twitter Header](https://user-images.githubusercontent.com/95926324/180631183-b86ee2b8-b02b-4a31-9800-c0d291ea0c74.png)
 
-Hi 👋 My name is KAMAL
+Hi 👋 My name is KAMAL 
+<img align="right" alt="coder GIF" src="https://github.com/legendarykamal/legendarykamal/blob/master/coder.gif" width="100" />
 ======================
 Full Stack MERN Developer and A Blockchain dev
 ----------------------------------------------
