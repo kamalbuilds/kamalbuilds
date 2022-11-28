@@ -10,7 +10,7 @@ Full Stack MERN Developer and A Blockchain dev
 I am someone greatly fascinated by new technology and framework. Love changing imagination to reality. I am looking to contribute in open source projects and take some internship to gain real life experience.
 
 * 🌍  I'm based in delhi
-* 🖥️  See my portfolio at [Kamal@Portfolio](http://kamalthedev.netlify.app/)
+* 🖥️  See my terminal portfolio at [Kamal@Portfolio](https://legendarykamal.github.io/Terminal-Portfolio/)
 * ✉️  You can contact me at [geniusamansingh@gmail.com](mailto:geniusamansingh@gmail.com)
 * 🚀  I'm currently working on doing open source contributions
 * 🧠  I'm learning NextJS with typescript
