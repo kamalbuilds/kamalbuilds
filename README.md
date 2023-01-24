@@ -73,12 +73,18 @@ I am someone greatly fascinated by new technology and framework. Love changing i
 <a href="http://www.github.com/legendarykamal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=legendarykamal&stroke=f97316&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=f97316&currStreakLabel=0891b2&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" align="left" />
 </a>
 
-<br />
+
+<div style="text-align: center;">
+    <a href="https://quine.sh/profile/legendarykamal">
+        <img src="https://stats.quine.sh/legendarykamal/github" alt="Kamal's GitHub stats" width="840px">
+    </a>
+</div>
+
+
+<a href="https://quine.sh/profile/legendarykamal" align="center"><img src="https://stats.quine.sh/legendarykamal/verified-languages?simple=true" alt="Kamal's language experiences" width="840px"></a>
+
 
 [![@kamalthedev's Holopin board](https://holopin.me/kamalthedev)](https://holopin.io/@kamalthedev)
-
- <img src="https://activity-graph.herokuapp.com/graph?username=legendarykamal&theme=monokai&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%" align="center" />
-
 
 
 <p align="right">
