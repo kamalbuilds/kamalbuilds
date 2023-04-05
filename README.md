@@ -76,7 +76,7 @@ I am someone greatly fascinated by new technology and framework. Love changing i
 
 <div style="text-align: center;">
     <a href="https://quine.sh/profile/legendarykamal">
-        <img src="https://stats.quine.sh/legendarykamal/github" alt="Kamal's GitHub stats" width="840px">
+        <img src="https://stats.quine.sh/legendarykamal/github" alt="Kamal's GitHub stats" width="350px">
     </a>
 </div>
 
