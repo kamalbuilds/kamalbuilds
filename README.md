@@ -7,14 +7,14 @@ Hi 👋 My name is KAMAL
 Full Stack MERN Developer and A Blockchain dev
 ----------------------------------------------
 
-I am someone greatly fascinated by new technology and framework. Love changing imagination to reality. I am looking to contribute in open source projects and take some internship to gain real life experience.
+I am greatly fascinated by new technology and frameworks. I love changing imagination into reality. I am looking to contribute to open source projects and building on technologies that change lives.
 
 * 🌍  I'm based in delhi
 * 🖥️  See my terminal portfolio at [Kamal@Portfolio](https://legendarykamal.github.io/Terminal-Portfolio/)
-* ✉️  You can contact me at [geniusamansingh@gmail.com](mailto:geniusamansingh@gmail.com)
-* 🚀  I'm currently working on doing open source contributions
-* 🧠  I'm learning NextJS with typescript
-* 🤝  I'm open to collaborating on Open Source Projects
+* ✉️  You can contact me at [geniusamansingh@gmail.com](mailto:kamalthedev7@gmail.com)
+* 🚀  I'm currently building web3 Dapp solutions to Real World Usecase.
+* 🧠  I'm learning Rust and Zk tech like Circom.
+* 🤝  I'm open to collaborating on Open Source Projects.
 
 ### Skills
 
