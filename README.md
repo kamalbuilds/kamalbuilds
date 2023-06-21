@@ -11,10 +11,10 @@ I am greatly fascinated by new technology and frameworks. I love changing imagin
 
 * 🌍  I'm based in delhi
 * 🖥️  See my terminal portfolio at [Kamal@Portfolio](https://legendarykamal.github.io/Terminal-Portfolio/)
-* ✉️  You can contact me at [geniusamansingh@gmail.com](mailto:kamalthedev7@gmail.com)
+* ✉️  You can contact me at [kamalthedev7@gmail.com](mailto:kamalthedev7@gmail.com)
 * 🚀  I'm currently building web3 Dapp solutions to Real World Usecase.
-* 🧠  I'm learning Rust and Zk tech like Circom.
-* 🤝  I'm open to collaborating on Open Source Projects.
+* 🧠  I'm learning Rust and Zk technologies like Circom.
+* 🤝  I'm open to collaborate on Open Source Projects.
 
 ### Skills
 
