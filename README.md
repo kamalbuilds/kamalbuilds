@@ -2,7 +2,7 @@
 ![Gradient Elegant Professional Gamer Twitter Header](https://user-images.githubusercontent.com/95926324/180631183-b86ee2b8-b02b-4a31-9800-c0d291ea0c74.png)
 
 Hi 👋 My name is KAMAL 
-<img align="right" alt="coder GIF" src="https://github.com/legendarykamal/legendarykamal/blob/master/coder.gif" width="150" />
+<img align="right" alt="coder GIF" src="https://github.com/kamalbuilds/kamalbuilds/blob/master/coder.gif" width="150" />
 ======================
 Full Stack MERN Developer and A Blockchain dev
 ----------------------------------------------
@@ -10,7 +10,7 @@ Full Stack MERN Developer and A Blockchain dev
 I am greatly fascinated by new technology and frameworks. I love changing imagination into reality. I am looking to contribute to open source projects and building on technologies that change lives.
 
 * 🌍  I'm based in delhi
-* 🖥️  See my terminal portfolio at [Kamal@Portfolio](https://legendarykamal.github.io/Terminal-Portfolio/)
+* 🖥️  See my terminal portfolio at [Kamal@Portfolio](https://kamalbuilds.github.io/Terminal-Portfolio/)
 * ✉️  You can contact me at [kamalthedev7@gmail.com](mailto:kamalthedev7@gmail.com)
 * 🚀  I'm currently building web3 Dapp solutions to Real World Usecase.
 * 🧠  I'm learning Rust and Zk technologies like Circom.
@@ -65,29 +65,29 @@ I am greatly fascinated by new technology and frameworks. I love changing imagin
 
 <br/>
 
-<a href="http://www.github.com/legendarykamal"><img src="https://github-readme-stats.vercel.app/api?username=legendarykamal&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=f97316&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="legendarykamal's GitHub stats" align="right" /></a>
+<a href="http://www.github.com/kamalbuilds"><img src="https://github-readme-stats.vercel.app/api?username=kamalbuilds&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=f97316&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="kamalbuilds's GitHub stats" align="right" /></a>
 
 <br />
 
-<a href="http://www.github.com/legendarykamal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=legendarykamal&stroke=f97316&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=f97316&currStreakLabel=0891b2&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" align="left" />
+<a href="http://www.github.com/kamalbuilds"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kamalbuilds&stroke=f97316&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=f97316&currStreakLabel=0891b2&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" align="left" />
 </a>
 
 
 <div style="text-align: center;">
-    <a href="https://quine.sh/profile/legendarykamal">
-        <img src="https://stats.quine.sh/legendarykamal/github" alt="Kamal's GitHub stats" width="350px">
+    <a href="https://quine.sh/profile/kamalbuilds">
+        <img src="https://stats.quine.sh/kamalbuilds/github" alt="Kamal's GitHub stats" width="350px">
     </a>
 </div>
 
 
-<a href="https://quine.sh/profile/legendarykamal" align="center"><img src="https://stats.quine.sh/legendarykamal/verified-languages?simple=true" alt="Kamal's language experiences" width="840px"></a>
+<a href="https://quine.sh/profile/kamalbuilds" align="center"><img src="https://stats.quine.sh/kamalbuilds/verified-languages?simple=true" alt="Kamal's language experiences" width="840px"></a>
 
 
 [![@kamalthedev's Holopin board](https://holopin.me/kamalthedev)](https://holopin.io/@kamalthedev)
 
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=legendarykamal&label=Profile%20views&color=0e75b6&style=for-the-badge&color=000000" alt="kamal' profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kamalbuilds&label=Profile%20views&color=0e75b6&style=for-the-badge&color=000000" alt="kamal' profile views" />
 </p>
 
 
