@@ -7,7 +7,7 @@ Hi 👋 My name is KAMAL
 Full Stack MERN Developer and A Blockchain dev
 ----------------------------------------------
 
-I am greatly fascinated by new technology and frameworks. I love changing imagination into reality. I am looking to contribute to open source projects and building on technologies that change lives.
+I am a Full stack Blockchain developer , having an experience of building on multiple blockchains and protocols. Winner of 14 global hackathons , I aspire to build projects that scale and improve users life to a greater extent. Adding value to the blockchain ecosystem is my goal.
 
 * 🌍  I'm based in delhi
 * 🖥️  See my terminal portfolio at [Kamal@Portfolio](https://kamalbuilds.github.io/Terminal-Portfolio/)
