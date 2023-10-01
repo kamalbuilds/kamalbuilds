@@ -54,10 +54,14 @@ I am a Full stack Blockchain developer , having an experience of building on mul
 
 <p align="left"> 
  <a href="https://www.dev.to/kamalthedev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> 
- <a href="https://discord.com/users/onmyway007#7874" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/kamal-singh7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+ <a href="https://discord.com/users/0xkamal7#0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+ <a href="https://www.linkedin.com/in/kamal-singh7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+</p>
 
-<a href="https://learnweb3.io/profiles/0xkamal" target="_blank" rel="noreferrer">My LearnWeb3 Profile</a>
+<br> <!-- Add a line break for spacing -->
+
+### Profiles
+<a href="https://learnweb3.io/profiles/0xkamal" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/95990630?s=280&v=4" width="32" height="32" /> My LearnWeb3 Profile</a>
 
 ### Badges
 
