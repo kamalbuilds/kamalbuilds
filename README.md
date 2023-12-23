@@ -6,7 +6,11 @@ Hi 👋 My name is KAMAL
 Full Stack MERN + Blockchain 📦 Developer
 ----------------------------------------------
 
-I am a Full stack Blockchain developer , having an experience of building on multiple blockchains and protocols. Winner of 14 global hackathons , I aspire to build projects that scale and improve users life to a greater extent. Adding value to the blockchain ecosystem is my goal.
+I am a Full stack Blockchain developer ♦, having an experience of building on multiple blockchains and protocols.
+
+Winner of 14 global hackathons 👨🏻‍💻, I aspire to build projects that scale and improve users life to a greater extent.
+
+Adding value to the blockchain ecosystem is my goal.
 
 * 🌍  I'm based on Earth
 * 🖥️  See my terminal portfolio at [Kamal@Portfolio](https://kamalbuilds.github.io/Terminal-Portfolio/)
@@ -60,7 +64,7 @@ I am a Full stack Blockchain developer , having an experience of building on mul
 <br> <!-- Add a line break for spacing -->
 
 ### Profiles
-<a href="https://learnweb3.io/profiles/0xkamal" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/95990630?s=280&v=4" width="32" height="32" /> My LearnWeb3 Profile</a>
+<a href="https://learnweb3.io/u/0xkamal7" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/95990630?s=280&v=4" width="32" height="32" /> My LearnWeb3 Profile</a>
 
 ### Badges
 
