@@ -8,14 +8,14 @@ Full Stack MERN + Blockchain 📦 Developer
 
 I am a Full stack Blockchain developer ♦, having an experience of building on multiple blockchains and protocols.
 
-Winner of 14 global hackathons 👨🏻‍💻, I aspire to build projects that scale and improve users life to a greater extent.
+Proud Winner of 20+ major global Hackathons 👨🏻‍💻, I aspire to build solutions that scale and improve users life to a greater extent.
 
 Adding value to the blockchain ecosystem is my goal.
 
 * 🌍  I'm based on Earth
 * 🖥️  See my terminal portfolio at [Kamal@Portfolio](https://kamalbuilds.github.io/Terminal-Portfolio/)
 * ✉️  You can contact me at [Mail](mailto:geniusamansingh@gmail.com)
-* 🚀  I'm currently building web3 Dapp solutions to Real World Usecase.
+* 🚀  I'm currently building web3 Dapp solutions to Real World Usecases.
 * 🧠  I'm learning Rust and Zk technologies like Circom.
 * 🤝  I'm open to collaborate on Open Source Projects.
 
