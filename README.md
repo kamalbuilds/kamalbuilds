@@ -63,8 +63,27 @@ Adding value to the blockchain ecosystem is my goal.
 
 <br> <!-- Add a line break for spacing -->
 
-### Profiles
-<a href="https://learnweb3.io/u/0xkamal7" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/95990630?s=280&v=4" width="32" height="32" /> My LearnWeb3 Profile</a>
+### My Hackathon Profiles
+
+<div style="display: flex; justify-content: space-around; align-items: center;">
+
+  <a href="https://learnweb3.io/u/0xkamal7" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/95990630?s=280&v=4" width="150" height="150" />
+    LearnWeb3 Profile
+  </a>
+
+  <a href="https://devpost.com/0xkamal7" target="_blank" rel="noreferrer">
+    <img src="https://github.com/kamalbuilds/kamalbuilds/assets/95926324/2b8c6c30-5d97-4ac7-80df-cbb1ca5f64fe&v=4" width="150" height="150" />
+    Devpost Profile
+  </a>
+
+  <a href="https://devfolio.co/@0xkamal7" target="_blank" rel="noreferrer">
+    <img src="https://github.com/kamalbuilds/kamalbuilds/assets/95926324/f6cb39ad-1268-4cb7-aeac-71efa0246106" width="150" height="150" />
+    Devfolio Profile
+  </a>
+
+</div>
+
 
 ### Badges
 
