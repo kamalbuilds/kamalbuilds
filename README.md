@@ -4,7 +4,7 @@ Hi 👋 My name is KAMAL NAYAN SINGH
 Full Stack Blockchain Developer ♦ MERN Stack + Rust Dev
 ----------------------------------------------
 
-I am a Full stack Blockchain developer ♦, having an experience of building on multiple blockchains and protocols.
+I am a Full stack Blockchain developer ♦, having 4 years of experience in building Dapps on multiple blockchains and protocols.
 
 Proud Winner of 20+ major global Hackathons 👨🏻‍💻, I aspire to build solutions that scale and improve users life to a greater extent.
 
