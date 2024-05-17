@@ -166,9 +166,6 @@ Adding value to the blockchain ecosystem is my goal.
 <a href="https://quine.sh/profile/kamalbuilds" align="center"><img src="https://stats.quine.sh/kamalbuilds/verified-languages?simple=true" alt="Kamal's language experiences" width="840px"></a>
 
 
-[![@kamalthedev's Holopin board](https://holopin.me/kamalthedev)](https://holopin.io/@kamalthedev)
-
-
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=kamalbuilds&label=Profile%20views&color=0e75b6&style=for-the-badge&color=000000" alt="kamal' profile views" />
 </p>
