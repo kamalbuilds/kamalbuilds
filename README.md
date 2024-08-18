@@ -10,6 +10,29 @@ Proud Winner of 20+ major global Hackathons 👨🏻‍💻, I aspire to build s
 
 Adding value to the blockchain ecosystem is my goal.
 
+## Some of my Best Projects 👇🏻
+
+Founder of TradeSphere - https://ethglobal.com/showcase/tradesphere-5vdrw
+
+Builder and Founder of GasProtocol- https://ethglobal.com/showcase/gas-protocol-46m74
+
+Founder of 1clickSUIDefi - https://x.com/1clicksuidefi
+
+Winner of Archway hacakthon 2024 - ArchID Track - https://x.com/archwayHQ/status/1818368483819946256
+https://dorahacks.io/buidl/13726
+
+Finalist #2 Prize Celestia Hackathon -  https://dorahacks.io/buidl/12724
+
+Lambda Hack Brussels - Dora Track Winner - https://dorahacks.io/buidl/14080
+
+Dchain Hackathon 2024 Winner - https://dorahacks.io/buidl/14291
+
+Algorand Change the Game 2023 Winner - Track Defi - https://dorahacks.io/buidl/8000
+
+Avalanche Frontier Hackathon Winner - #2 Prize -  https://dorahacks.io/buidl/10316
+
+Polygon [APAC] DevX Hackathon X DoraHacks Winner Polygon ID Track - https://dorahacks.io/buidl/6059#details
+
 <h2>My POAP Collection</h2>
 
 <p>Click on any POAP to visit its page on collectors.poap.xyz:</p>
