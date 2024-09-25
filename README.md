@@ -14,6 +14,8 @@ Adding value to the blockchain ecosystem is my goal.
 
 Founder of TradeSphere - https://ethglobal.com/showcase/tradesphere-5vdrw
 
+Founder of XChain Investments - https://ethglobal.com/showcase/xchain-investments-4fu2t
+
 Builder and Founder of GasProtocol- https://ethglobal.com/showcase/gas-protocol-46m74
 
 Founder of 1clickSUIDefi - https://x.com/1clicksuidefi
