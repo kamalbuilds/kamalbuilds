@@ -6,7 +6,7 @@ Full Stack Blockchain Developer ♦ MERN Stack + Rust Dev
 
 I am a Full stack Blockchain developer ♦, having 5+ years of experience in building Dapps on multiple blockchains and protocols.
 
-Proud Winner of 26+ major global Hackathons 👨🏻‍💻, I aspire to build solutions that scale and improve users life to a greater extent.
+Proud Winner of 30+ major global Hackathons 👨🏻‍💻, I aspire to build solutions that scale and improve users life to a greater extent.
 
 Adding value to the blockchain ecosystem is my goal.
 
