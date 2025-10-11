@@ -1,12 +1,12 @@
 Hi 👋 My name is KAMAL NAYAN SINGH
 <img align="right" alt="coder GIF" src="https://github.com/kamalbuilds/kamalbuilds/blob/master/coder.gif" width="150" />
 ======================
-Full Stack Blockchain Developer ♦ MERN Stack + Rust Dev
+Full Stack Blockchain Developer ♦ MERN Stack + Rust Developer
 ----------------------------------------------
 
 I am a Full stack Blockchain developer ♦, having 6+ years of experience in building Dapps on multiple blockchains and protocols.
 
-Proud Winner of 50+ major global Hackathons 👨🏻‍💻, I aspire to build solutions that scale and improve users life to a greater extent.
+Proud Winner of 50+ major global Hackathons 👨🏻‍💻, I aspire to build solutions that scale and improve users defi life.
 
 Adding value to the blockchain ecosystem is my goal.
 
@@ -144,28 +144,6 @@ Polygon [APAC] DevX Hackathon X DoraHacks Winner Polygon ID Track - https://dora
 </p>
 
 <br> <!-- Add a line break for spacing -->
-
-### My Hackathon Profiles
-
-<div style="display: flex; justify-content: space-around; align-items: center;">
-
-  <a href="https://learnweb3.io/u/0xkamal7" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/95990630?s=280&v=4" width="150" height="150" />
-    LearnWeb3 Profile
-  </a>
-
-  <a href="https://devpost.com/0xkamal7" target="_blank" rel="noreferrer">
-    <img src="https://github.com/kamalbuilds/kamalbuilds/assets/95926324/2b8c6c30-5d97-4ac7-80df-cbb1ca5f64fe&v=4" width="150" height="150" />
-    Devpost Profile
-  </a>
-
-  <a href="https://devfolio.co/@0xkamal7" target="_blank" rel="noreferrer">
-    <img src="https://github.com/kamalbuilds/kamalbuilds/assets/95926324/f6cb39ad-1268-4cb7-aeac-71efa0246106" width="150" height="150" />
-    Devfolio Profile
-  </a>
-
-</div>
-
 
 ### Badges
 
