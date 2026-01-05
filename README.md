@@ -1,4 +1,4 @@
-Hi 👋 My name is KAMAL NAYAN SINGH
+Hi 👋 My name is KAMAL
 <img align="right" alt="coder GIF" src="https://github.com/kamalbuilds/kamalbuilds/blob/master/coder.gif" width="150" />
 ======================
 Full Stack Blockchain Developer ♦ MERN Stack + Rust Developer
