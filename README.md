@@ -35,71 +35,11 @@ Avalanche Frontier Hackathon Winner - #2 Prize -  https://dorahacks.io/buidl/103
 
 Polygon [APAC] DevX Hackathon X DoraHacks Winner Polygon ID Track - https://dorahacks.io/buidl/6059#details
 
-<h2>My POAP Collection</h2>
-
-<p>Click on any POAP to visit its page on collectors.poap.xyz:</p>
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <!-- Superhack Hacker -->
-  <a href="https://collectors.poap.xyz/en-US/token/148227" target="_blank">
-    <img src="https://assets.airstack.xyz/image/poap/Oqr3cZKWvxz5CuJxaT3zFA==/small.png" alt="Superhack Hacker" title="Superhack Hacker" style="width: 100px;">
-  </a>
-  <!-- 30W3 OSS -->
-  <a href="https://collectors.poap.xyz/en-US/token/102253" target="_blank">
-    <img src="https://assets.airstack.xyz/image/poap/bkbbh7k7WR67KKZCZGqkLQ==/small.png" alt="30W3 OSS" title="30W3 OSS" style="width: 100px;">
-  </a>
-  <!-- Autonomous Worlds Hackathon Hacker -->
-  <a href="https://collectors.poap.xyz/en-US/token/127707" target="_blank">
-    <img src="https://assets.airstack.xyz/image/poap/SvcsUrYucdMd35y3hlnaWA==/small.aaf" alt="Autonomous Worlds Hackathon Hacker" title="Autonomous Worlds Hackathon Hacker" style="width: 100px;">
-  </a>
-  <!-- Built on Superfluid: ETHforAll 2023 -->
-  <a href="https://collectors.poap.xyz/en-US/token/111850" target="_blank">
-    <img src="https://assets.airstack.xyz/image/poap/rAJKlR4uoRbhr1pVgCLp7A==/small.gif" alt="Built on Superfluid: ETHforAll 2023" title="Built on Superfluid: ETHforAll 2023" style="width: 100px;">
-  </a>
-  <!-- Billion Reasons to Build Delhi Chapter -->
-  <a href="https://collectors.poap.xyz/en-US/token/156850" target="_blank">
-    <img src="https://assets.airstack.xyz/image/poap/Wq2q0ZiihOxW39gxH43+aw==/small.png" alt="Billion Reasons to Build Delhi Chapter" title="Billion Reasons to Build Delhi Chapter" style="width: 100px;">
-  </a>
-  <!-- Scroll Hacker @ Scaling Ethereum 2023 -->
-  <a href="https://collectors.poap.xyz/en-US/token/116406" target="_blank">
-    <img src="https://assets.airstack.xyz/image/poap/dA+2dNAbBlis2xhNjeohUA==/small.gif" alt="Scroll Hacker @ Scaling Ethereum 2023" title="Scroll Hacker @ Scaling Ethereum 2023" style="width: 100px;">
-  </a>
-  <!-- FVM Space Warp 2023 Staked Hacker -->
-  <a href="https://collectors.poap.xyz/en-US/token/101351" target="_blank">
-    <img src="https://assets.airstack.xyz/image/poap/mBR0fvTaLjSUunoyJz72og==/small.png" alt="FVM Space Warp 2023 Staked Hacker" title="FVM Space Warp 2023 Staked Hacker" style="width: 100px;">
-  </a>
-  <!-- Streamr Mini Hack by D_D | Participant -->
-  <a href="https://collectors.poap.xyz/en-US/token/117093" target="_blank">
-    <img src="https://assets.airstack.xyz/image/poap/RX9LW5YkWwK3STjBL1L05Q==/small.aaf" alt="Streamr Mini Hack by D_D | Participant" title="Streamr Mini Hack by D_D | Participant" style="width: 100px;">
-  </a>
-  <!-- Superfluid Wave Pool #10: Honorable Mention -->
-  <a href="https://collectors.poap.xyz/en-US/token/141757" target="_blank">
-    <img src="https://assets.airstack.xyz/image/poap/6hv9odb38brA/y/clKDgag==/small.gif" alt="Superfluid Wave Pool #10: Honorable Mention" title="Superfluid Wave Pool #10: Honorable Mention" style="width: 100px;">
-  </a>
-  <!-- ETHIndia 2023 Hacker -->
-  <a href="https://collectors.poap.xyz/en-US/token/165990" target="_blank">
-    <img src="https://assets.airstack.xyz/image/poap/ExpCK7o8UP8KsRTBgxRKwA==/small.png" alt="ETHIndia 2023 Hacker" title="ETHIndia 2023 Hacker" style="width: 100px;">
-  </a>
-  <!-- HackFS 2023 Hacker -->
-  <a href="https://collectors.poap.xyz/en-US/token/143183" target="_blank">
-    <img src="https://assets.airstack.xyz/image/poap/8GZCV8dLp1blWXlDaMbSrQ==/small.aaf" alt="HackFS 2023 Hacker" title="HackFS 2023 Hacker" style="width: 100px;">
-  </a>
-  <!-- ETHOnline 2023 Hacker -->
-  <a href="https://collectors.poap.xyz/en-US/token/157390" target="_blank">
-    <img src="https://assets.airstack.xyz/image/poap/ywXtGgvphM3jnVzTNT47CQ==/small.png" alt="ETHOnline 2023 Hacker" title="ETHOnline 2023 Hacker" style="width: 100px;">
-  </a>
-  <!-- Streamr Mini Hack by D_D | Winner -->
-  <a href="https://collectors.poap.xyz/en-US/token/117497" target="_blank">
-    <img src="https://assets.airstack.xyz/image/poap/bW1Rc92Enw3TDrxV84WK7w==/small.aaf" alt="Streamr Mini Hack by D_D | Winner" title="Streamr Mini Hack by D_D | Winner" style="width: 100px;">
-  </a>
-</div>
-
-* 🌍  I'm based on Earth
+* 🌍  I'm based on Planet Earth
 * 🖥️  See my terminal portfolio at [Kamal@Portfolio](https://kamalbuilds.github.io/Terminal-Portfolio/)
-* ✉️  You can contact me at [Mail](mailto:geniusamansingh@gmail.com)
 * 🚀  I'm currently building web3 Dapp solutions to Real World Usecases.
 * 🧠  I'm learning Rust and Zk technologies like Circom.
-* 🤝  I'm open to collaborate on Open Source Projects.
+* 🤝  I'm open to working on Open Source Projects.
 
 ### Skills
 
