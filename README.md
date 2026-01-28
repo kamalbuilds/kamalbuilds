@@ -99,16 +99,6 @@ Polygon [APAC] DevX Hackathon X DoraHacks Winner Polygon ID Track - https://dora
 </a>
 
 
-<div style="text-align: center;">
-    <a href="https://quine.sh/profile/kamalbuilds">
-        <img src="https://stats.quine.sh/kamalbuilds/github" alt="Kamal's GitHub stats" width="350px">
-    </a>
-</div>
-
-
-<a href="https://quine.sh/profile/kamalbuilds" align="center"><img src="https://stats.quine.sh/kamalbuilds/verified-languages?simple=true" alt="Kamal's language experiences" width="840px"></a>
-
-
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=kamalbuilds&label=Profile%20views&color=0e75b6&style=for-the-badge&color=000000" alt="kamal' profile views" />
 </p>
