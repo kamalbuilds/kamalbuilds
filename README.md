@@ -1,73 +1,75 @@
-Hi 👋 My name is KAMAL
-<img align="right" alt="coder GIF" src="https://github.com/kamalbuilds/kamalbuilds/blob/master/coder.gif" width="150" />
-======================
-Full Stack Blockchain Developer ♦ MERN Stack + Rust Developer
-----------------------------------------------
+# Kamal
 
-I am a Full stack Blockchain developer ♦, having 6+ years of experience in building Dapps on multiple blockchains and protocols.
+**Founder of [Ava](https://www.getava.xyz). I build the wallet an AI agent cannot drain.**
 
-Proud Winner of 50+ major global Hackathons 👨🏻‍💻, I aspire to build solutions that scale and improve users defi life.
+Agents already write code, book travel and argue with support desks. The moment they touch money, we hand them either nothing or everything. Ava is the third option: you sign a spending cap once, the agent works inside it, and every action ends in a receipt anyone can re-read from the chain.
 
-Adding value to the blockchain ecosystem is my goal.
+```text
+you   Supply 1 USDC to Aave on Monad. Cap it at 5 USDC.
+ava   ▸ ava_create_mandate   USDC · monad · cap 5.00 · active
+      ▸ ava_lend_execute     1.00 · filled · block 93,291,520 · chain-confirmed
 
-## Some of my Best Projects 👇🏻
+you   Now supply 50 USDC.
+ava   ▸ ava_lend_execute     refused
+      MANDATE_NOTIONAL_EXCEEDED  Notional 50 exceeds the mandate limit of 5 USDC.
+```
 
-Founder of TradeSphere - https://ethglobal.com/showcase/tradesphere-5vdrw
+Both turns are production runs. The second one is the product.
 
-Founder of XChain Investments - https://ethglobal.com/showcase/xchain-investments-4fu2t
+| | |
+|---:|:---|
+| **8** | mainnet settlements |
+| **4** | chains with confirmed fills |
+| **25** | protocol adapters across 12 chains |
+| **0** | keys the agent ever holds |
 
-Builder and Founder of GasProtocol- https://ethglobal.com/showcase/gas-protocol-46m74
+```bash
+npx @getava-xyz/connect
+```
 
-Founder of 1clickSUIDefi - https://x.com/1clicksuidefi
+One MCP server for Claude Code, Cursor, Codex, OpenClaw and Grok. Keys live in a Turnkey enclave, policy is deterministic, and Aave and Morpho lending execute today. Live numbers at [getava.xyz](https://www.getava.xyz).
 
-Winner of Archway hacakthon 2024 - ArchID Track - https://x.com/archwayHQ/status/1818368483819946256
-https://dorahacks.io/buidl/13726
+## How I got here
 
-Finalist #2 Prize Celestia Hackathon -  https://dorahacks.io/buidl/12724
+Before Ava I shipped on more than fifteen chains: Ethereum, Solana, Sui, Aptos, Monad, Hyperliquid, Starknet, Arbitrum, Base, Avalanche, Polygon, Algorand, Celestia, Mantle, Zcash. More than fifty of those builds won.
 
-Lambda Hack Brussels - Dora Track Winner - https://dorahacks.io/buidl/14080
+I treated every one as a field test of a single question: **what breaks when software, not a person, holds the keys?** Different chains, different venues, the same failure every time. The agent was trusted with the whole wallet or none of it. Ava is the answer I kept arriving at, built once and properly.
 
-Dchain Hackathon 2024 Winner - https://dorahacks.io/buidl/14291
+## What I hold to
 
-Algorand Change the Game 2023 Winner - Track Defi - https://dorahacks.io/buidl/8000
+- **A refusal is a feature.** An agent that says no with a typed reason beats one that quietly does something plausible.
+- **Receipts over reports.** When the executor says it worked, you have a claim. When the chain says it, you have a fact.
+- **Mainnet first, then the pitch.** A demo nobody can verify is a rumour.
+- **The user should never paste a seed phrase.** Into anything. Ever.
 
-Avalanche Frontier Hackathon Winner - #2 Prize -  https://dorahacks.io/buidl/10316
+## Also shipped
 
-Polygon [APAC] DevX Hackathon X DoraHacks Winner Polygon ID Track - https://dorahacks.io/buidl/6059#details
+| | |
+|:--|:--|
+| [**sealed.cash**](https://sealed.cash) | Hold, send and earn on Starknet without publishing your salary or net worth. |
+| [**Last Call**](https://lastcall-sol.vercel.app) | Convert PreStocks pre-IPO tokens before their deadline, even holding 0 SOL. |
+| [**frens**](https://frenstrade.vercel.app) | Trade perps on Monad where your friends call the exit on your chart. Accept, counter or pass. |
+| [**Exit Window**](https://github.com/kamalbuilds/exit-window) | Know the moment smart money in your Hyperliquid trade starts selling. |
+| [**ram-sentinel**](https://github.com/kamalbuilds/ram-sentinel) | A Rust watchdog that tells you in plain English what to close before your Mac starts swapping. |
 
-* 🌍  I'm based on Planet Earth
-* 🖥️  See my terminal portfolio at [Kamal@Portfolio](https://kamalbuilds.github.io/Terminal-Portfolio/)
-* 🚀  I'm currently building web3 Dapp solutions to Real World Usecases.
-* 🧠  I'm learning Rust and Zk technologies like Circom.
-* 🤝  I'm open to working on Open Source Projects.
+<details>
+<summary><b>Track record</b></summary>
+<br>
 
+- Archway 2024, ArchID track winner. [buidl](https://dorahacks.io/buidl/13726) · [announcement](https://x.com/archwayHQ/status/1818368483819946256)
+- Celestia, finalist. [buidl](https://dorahacks.io/buidl/12724)
+- Lambda Hack Brussels, Dora track winner. [buidl](https://dorahacks.io/buidl/14080)
+- Dchain 2024 winner. [buidl](https://dorahacks.io/buidl/14291)
+- Algorand Change the Game 2023, DeFi track winner. [buidl](https://dorahacks.io/buidl/8000)
+- Avalanche Frontier, second place. [buidl](https://dorahacks.io/buidl/10316)
+- Polygon APAC DevX, Polygon ID track winner. [buidl](https://dorahacks.io/buidl/6059)
+- ETHGlobal: [TradeSphere](https://ethglobal.com/showcase/tradesphere-5vdrw) · [XChain Investments](https://ethglobal.com/showcase/xchain-investments-4fu2t) · [Gas Protocol](https://ethglobal.com/showcase/gas-protocol-46m74)
+- [1clickSUIDefi](https://x.com/1clicksuidefi), one-click DeFi on Sui
 
-### Socials
+</details>
 
-<p align="left"> 
- <a href="https://www.dev.to/kamalthedev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> 
- <a href="https://discord.com/users/0xkamal7#0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
- <a href="https://www.linkedin.com/in/kamal-singh7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-</p>
+## Now
 
-<br> <!-- Add a line break for spacing -->
+Ava is onboarding design partners: teams running agents that need to move real money without handing over the keys. If that is you, my DMs are open.
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<br/>
-
-<a href="http://www.github.com/kamalbuilds"><img src="https://github-readme-stats.vercel.app/api?username=kamalbuilds&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=f97316&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="kamalbuilds's GitHub stats" align="right" /></a>
-
-<br />
-
-<a href="http://www.github.com/kamalbuilds"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kamalbuilds&stroke=f97316&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=f97316&currStreakLabel=0891b2&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" align="left" />
-</a>
-
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=kamalbuilds&label=Profile%20views&color=0e75b6&style=for-the-badge&color=000000" alt="kamal' profile views" />
-</p>
-
-
+[getava.xyz](https://www.getava.xyz) · [X @kamalbuilds](https://x.com/kamalbuilds) · [LinkedIn](https://www.linkedin.com/in/kamal-singh7) · kamal@getava.xyz
