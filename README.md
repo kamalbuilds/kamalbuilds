@@ -41,7 +41,7 @@ I've spent years at the frontier where autonomous agents meet programmable money
 
 ## Agents that move money
 
-| | |
+| Project | What it does |
 |:--|:--|
 | [**Ava Portfolio Manager**](https://github.com/kamalbuilds/ava-portfolio-manager-ai-agents) | Specialist AI agents that turn a plain-English goal into multi-step DeFi transactions on Avalanche and execute them inside your risk limits. |
 | [**SolMate**](https://github.com/kamalbuilds/solmate-the-solana-defi-ai-agent) | A team of autonomous agents that analyze, recommend and execute DeFi strategies on Solana from natural language. |
@@ -49,7 +49,7 @@ I've spent years at the frontier where autonomous agents meet programmable money
 
 ## Trading infrastructure and privacy
 
-| | |
+| Project | What it does |
 |:--|:--|
 | [**HyperTWAP Shield**](https://github.com/kamalbuilds/HyperTWAP-Shield) | TWAP executor built on Hyperliquid's precompiles for private, MEV-resistant, market-aware execution. |
 | [**hyperliq-universal-sdk**](https://github.com/kamalbuilds/hyperliq-universal-sdk) | Hyperliquid SDKs in Go, Java and C#, plus a real-time alerting platform on the Node Info API. |
@@ -58,7 +58,7 @@ I've spent years at the frontier where autonomous agents meet programmable money
 
 ## Tools for builders and their agents
 
-| | |
+| Project | What it does |
 |:--|:--|
 | [**canfail**](https://github.com/kamalbuilds/canfail) | Proves your tests can actually fail. Finds checks that stay green because they cannot go red: vacuous tests, surviving mutants, reachable mocks. |
 | [**agent-integrity**](https://github.com/kamalbuilds/agent-integrity) | Tamper tripwire for the skills, hooks, rules and MCP servers your coding agent loads and runs. |
@@ -67,7 +67,7 @@ I've spent years at the frontier where autonomous agents meet programmable money
 
 ## AI that checks its own work
 
-| | |
+| Project | What it does |
 |:--|:--|
 | [**sightread**](https://github.com/kamalbuilds/sightread) | Audio description that has to fit the silence. Measures the gaps, writes and voices a line for each, re-measures, rejects takes that overrun. |
 | [**checkprint**](https://github.com/kamalbuilds/checkprint) | Delivery QC agent that repairs the master file and re-measures to prove the fix. Gemini on Google Cloud with ClickHouse. |
