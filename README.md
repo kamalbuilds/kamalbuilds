@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Kamal, AI × blockchain engineer. Software that thinks, then proves what it did on-chain." width="100%">
+  <img src="assets/banner.svg?v=3" alt="Kamal, AI × blockchain engineer. Software that thinks, then proves what it did on-chain." width="100%">
 </p>
 
 I've spent years at the frontier where autonomous agents meet programmable money: agents that trade, lend and settle on mainnet, private orderbooks that match in under 50ms, zero-knowledge circuits, and the tooling that keeps all of it honest. I like the hard part: making the demo survive contact with real users and real funds.
@@ -77,8 +77,8 @@ I've spent years at the frontier where autonomous agents meet programmable money
 ## Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamalbuilds&show_icons=true&count_private=true&include_all_commits=false&hide_border=true&bg_color=0b0f14&title_color=5eead4&icon_color=5eead4&text_color=c9d1d9&rank_icon=github" alt="GitHub stats" height="170">
-  <img src="https://streak-stats.demolab.com/?user=kamalbuilds&hide_border=true&background=0b0f14&ring=5eead4&fire=5eead4&currStreakNum=f0f6fc&sideNums=f0f6fc&currStreakLabel=5eead4&sideLabels=8b949e&dates=6e7681&stroke=222a33" alt="Contribution streak" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=kamalbuilds&show_icons=true&count_private=true&include_all_commits=false&hide_border=true&bg_color=0b0f14&title_color=5eead4&icon_color=5eead4&text_color=c9d1d9&rank_icon=github&disable_animations=true" alt="GitHub stats" height="170">
+  <img src="https://streak-stats.demolab.com/?user=kamalbuilds&hide_border=true&background=0b0f14&ring=5eead4&fire=5eead4&currStreakNum=f0f6fc&sideNums=f0f6fc&currStreakLabel=5eead4&sideLabels=8b949e&dates=6e7681&stroke=222a33&disable_animations=true" alt="Contribution streak" height="170">
 </p>
 
 ## How I build
