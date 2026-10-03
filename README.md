@@ -1,59 +1,58 @@
 # Kamal
 
-**Founder of [Ava](https://www.getava.xyz). I build the wallet an AI agent cannot drain.**
+**AI × blockchain engineer. I build software that thinks, then proves what it did on-chain.**
 
-Agents already write code, book travel and argue with support desks. The moment they touch money, we hand them either nothing or everything. Ava is the third option: you sign a spending cap once, the agent works inside it, and every action ends in a receipt anyone can re-read from the chain.
+I've spent years at the frontier where autonomous agents meet programmable money: agents that trade, lend and settle on mainnet, private orderbooks that match in under 50ms, zero-knowledge circuits, and the tooling that keeps all of it honest. I ship across more than fifteen chains, from Solana and Ethereum to Hyperliquid, Sui, Starknet and Monad, and I like the hard part: making the demo survive contact with real users and real funds.
 
-```text
-you   Supply 1 USDC to Aave on Monad. Cap it at 5 USDC.
-ava   ▸ ava_create_mandate   USDC · monad · cap 5.00 · active
-      ▸ ava_lend_execute     1.00 · filled · block 93,291,520 · chain-confirmed
+`Rust` · `TypeScript` · `Solidity` · `Move` · `Go` · `Python` · `Noir` · `Anchor` · `MCP`
 
-you   Now supply 50 USDC.
-ava   ▸ ava_lend_execute     refused
-      MANDATE_NOTIONAL_EXCEEDED  Notional 50 exceeds the mandate limit of 5 USDC.
-```
-
-Both turns are production runs. The second one is the product.
-
-| | |
-|---:|:---|
-| **8** | mainnet settlements |
-| **4** | chains with confirmed fills |
-| **25** | protocol adapters across 12 chains |
-| **0** | keys the agent ever holds |
-
-```bash
-npx @getava-xyz/connect
-```
-
-One MCP server for Claude Code, Cursor, Codex, OpenClaw and Grok. Keys live in a Turnkey enclave, policy is deterministic, and Aave and Morpho lending execute today. Live numbers at [getava.xyz](https://www.getava.xyz).
-
-## How I got here
-
-Before Ava I shipped on more than fifteen chains: Ethereum, Solana, Sui, Aptos, Monad, Hyperliquid, Starknet, Arbitrum, Base, Avalanche, Polygon, Algorand, Celestia, Mantle, Zcash. More than fifty of those builds won.
-
-I treated every one as a field test of a single question: **what breaks when software, not a person, holds the keys?** Different chains, different venues, the same failure every time. The agent was trusted with the whole wallet or none of it. Ava is the answer I kept arriving at, built once and properly.
-
-## What I hold to
-
-- **A refusal is a feature.** An agent that says no with a typed reason beats one that quietly does something plausible.
-- **Receipts over reports.** When the executor says it worked, you have a claim. When the chain says it, you have a fact.
-- **Mainnet first, then the pitch.** A demo nobody can verify is a rumour.
-- **The user should never paste a seed phrase.** Into anything. Ever.
-
-## Also shipped
+## Agents that move money
 
 | | |
 |:--|:--|
+| [**Ava**](https://www.getava.xyz) | MCP server that gives Claude Code, Cursor and Codex a wallet they cannot drain. Signed spending caps, deterministic policy, typed refusals, receipts re-read from the chain. 8 mainnet settlements across 4 chains. |
+| [**Ava Portfolio Manager**](https://github.com/kamalbuilds/ava-portfolio-manager-ai-agents) | Specialist AI agents that turn a plain-English goal into multi-step DeFi transactions on Avalanche and execute them inside your risk limits. |
+| [**SolMate**](https://github.com/kamalbuilds/solmate-the-solana-defi-ai-agent) | A team of autonomous agents that analyze, recommend and execute DeFi strategies on Solana from natural language. |
+| [**Nansen Hunt Alpha**](https://github.com/kamalbuilds/nansen-hunt-alpha) · [**Exit Window**](https://github.com/kamalbuilds/exit-window) | Smart-money agents on Nansen data. Hunt Alpha detects coordinated whale clusters with a wallet-graph search and gates every trade through 8 risk factors. Exit Window alarms the moment smart money in your Hyperliquid trade starts selling. |
+
+## Trading infrastructure and privacy
+
+| | |
+|:--|:--|
+| [**DarkBook**](https://github.com/kamalbuilds/darkbook) | Size-blind orderbook for Solana market makers. Taker size stays hidden until settlement, matching runs under 50ms on MagicBlock ephemeral rollups, settlement is atomic on Solana. |
+| [**HyperTWAP Shield**](https://github.com/kamalbuilds/HyperTWAP-Shield) | TWAP executor built on Hyperliquid's precompiles for private, MEV-resistant, market-aware execution. |
+| [**hyperliq-universal-sdk**](https://github.com/kamalbuilds/hyperliq-universal-sdk) | Hyperliquid SDKs in Go, Java and C#, plus a real-time alerting platform on the Node Info API. |
+| [**zump.fun**](https://github.com/kamalbuilds/zumpfun) | Privacy-first token launchpad on Starknet with Noir zero-knowledge circuits. |
 | [**sealed.cash**](https://sealed.cash) | Hold, send and earn on Starknet without publishing your salary or net worth. |
-| [**Last Call**](https://lastcall-sol.vercel.app) | Convert PreStocks pre-IPO tokens before their deadline, even holding 0 SOL. |
-| [**frens**](https://frenstrade.vercel.app) | Trade perps on Monad where your friends call the exit on your chart. Accept, counter or pass. |
-| [**Exit Window**](https://github.com/kamalbuilds/exit-window) | Know the moment smart money in your Hyperliquid trade starts selling. |
-| [**ram-sentinel**](https://github.com/kamalbuilds/ram-sentinel) | A Rust watchdog that tells you in plain English what to close before your Mac starts swapping. |
+| [**Revoke × Attestcoin**](https://github.com/kamalbuilds/revoke-attestcoin) | EIP-7702 kill switch: revoke a delegation on Ethereum mainnet and a vault on Creditcoin freezes in the same transaction. |
+
+## Tools for builders and their agents
+
+| | |
+|:--|:--|
+| [**canfail**](https://github.com/kamalbuilds/canfail) | Proves your tests can actually fail. Finds checks that stay green because they cannot go red: vacuous tests, surviving mutants, reachable mocks. |
+| [**agent-integrity**](https://github.com/kamalbuilds/agent-integrity) | Tamper tripwire for the skills, hooks, rules and MCP servers your coding agent loads and runs. |
+| [**ram-sentinel**](https://github.com/kamalbuilds/ram-sentinel) | Rust watchdog that tells you in plain English what to close before your Mac runs out of memory. |
+| [**ane-spike**](https://github.com/kamalbuilds/ane-spike) | Benchmarks int8 matmul on the Apple Neural Engine against GPU and CPU, with Core ML placement proof. |
+
+## AI that checks its own work
+
+| | |
+|:--|:--|
+| [**sightread**](https://github.com/kamalbuilds/sightread) | Audio description that has to fit the silence. Measures the gaps, writes and voices a line for each, re-measures, rejects takes that overrun. |
+| [**checkprint**](https://github.com/kamalbuilds/checkprint) | Delivery QC agent that repairs the master file and re-measures to prove the fix. Gemini on Google Cloud with ClickHouse. |
+| [**pullback**](https://github.com/kamalbuilds/pullback) | Finds out whether anything in your home has been recalled, then gets the manufacturer's remedy delivered. |
+| [**out-of-service**](https://github.com/kamalbuilds/out-of-service) | Accessible NYC subway routing for people and their agents, scored on real elevator outage history. |
+
+## How I build
+
+- **Mainnet or it didn't happen.** A transaction hash beats a slide.
+- **Agents need limits, not just prompts.** Every agent I ship knows what it is not allowed to do.
+- **Measure, then trust.** If a system claims it worked, it should be able to prove it.
+- **Ship fast, then make it real.** Prototypes in a weekend, production in the weeks after.
 
 <details>
-<summary><b>Track record</b></summary>
+<summary><b>Recognition</b> · 50+ hackathon wins across ETHGlobal, DoraHacks and more</summary>
 <br>
 
 - Archway 2024, ArchID track winner. [buidl](https://dorahacks.io/buidl/13726) · [announcement](https://x.com/archwayHQ/status/1818368483819946256)
@@ -64,12 +63,11 @@ I treated every one as a field test of a single question: **what breaks when sof
 - Avalanche Frontier, second place. [buidl](https://dorahacks.io/buidl/10316)
 - Polygon APAC DevX, Polygon ID track winner. [buidl](https://dorahacks.io/buidl/6059)
 - ETHGlobal: [TradeSphere](https://ethglobal.com/showcase/tradesphere-5vdrw) · [XChain Investments](https://ethglobal.com/showcase/xchain-investments-4fu2t) · [Gas Protocol](https://ethglobal.com/showcase/gas-protocol-46m74)
-- [1clickSUIDefi](https://x.com/1clicksuidefi), one-click DeFi on Sui
 
 </details>
 
-## Now
+## Let's build
 
-Ava is onboarding design partners: teams running agents that need to move real money without handing over the keys. If that is you, my DMs are open.
+Open to collaborations with teams pushing AI agents and on-chain systems forward.
 
-[getava.xyz](https://www.getava.xyz) · [X @kamalbuilds](https://x.com/kamalbuilds) · [LinkedIn](https://www.linkedin.com/in/kamal-singh7) · kamal@getava.xyz
+[X @kamalbuilds](https://x.com/kamalbuilds) · [LinkedIn](https://www.linkedin.com/in/kamal-singh7) · [getava.xyz](https://www.getava.xyz)
