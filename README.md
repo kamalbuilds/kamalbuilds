@@ -1,16 +1,48 @@
-# Kamal
+<p align="center">
+  <img src="assets/banner.svg" alt="Kamal, AI × blockchain engineer. Software that thinks, then proves what it did on-chain." width="100%">
+</p>
 
-**AI × blockchain engineer. I build software that thinks, then proves what it did on-chain.**
+I've spent years at the frontier where autonomous agents meet programmable money: agents that trade, lend and settle on mainnet, private orderbooks that match in under 50ms, zero-knowledge circuits, and the tooling that keeps all of it honest. I like the hard part: making the demo survive contact with real users and real funds.
 
-I've spent years at the frontier where autonomous agents meet programmable money: agents that trade, lend and settle on mainnet, private orderbooks that match in under 50ms, zero-knowledge circuits, and the tooling that keeps all of it honest. I ship across more than fifteen chains, from Solana and Ethereum to Hyperliquid, Sui, Starknet and Monad, and I like the hard part: making the demo survive contact with real users and real funds.
+<h3 align="center">Stack</h3>
+<p align="center"><img src="assets/stack.svg" alt="Rust, TypeScript, Solidity, Move, Go, Python, Noir, Anchor, MCP" width="760"></p>
 
-`Rust` · `TypeScript` · `Solidity` · `Move` · `Go` · `Python` · `Noir` · `Anchor` · `MCP`
+<h3 align="center">Shipped on</h3>
+<p align="center"><img src="assets/chains.svg" alt="Solana, Ethereum, Hyperliquid, Sui, Starknet, Monad, Aptos, Base, Arbitrum, Avalanche, Polygon, Zcash" width="900"></p>
+
+## Featured
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://www.getava.xyz"><img src="assets/featured/ava.jpg" alt="Ava"></a>
+      <h3><a href="https://www.getava.xyz">Ava</a></h3>
+      MCP server that gives Claude Code, Cursor and Codex a wallet they cannot drain. Signed spending caps, deterministic policy, typed refusals, receipts re-read from the chain. 8 mainnet settlements across 4 chains.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/kamalbuilds/darkbook"><img src="assets/featured/darkbook.jpg" alt="DarkBook"></a>
+      <h3><a href="https://github.com/kamalbuilds/darkbook">DarkBook</a></h3>
+      Size-blind orderbook for Solana market makers. Taker size stays hidden behind a commitment until settlement, matching runs under 50ms on MagicBlock ephemeral rollups, settlement is atomic on Solana.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://sealed.cash"><img src="assets/featured/sealed.jpg" alt="sealed.cash"></a>
+      <h3><a href="https://sealed.cash">sealed.cash</a></h3>
+      A money account the public ledger can't read. Hold, spend and send on Starknet through the STRK20 privacy pool without publishing your salary or net worth.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://lastcall-sol.vercel.app"><img src="assets/featured/lastcall.jpg" alt="Last Call"></a>
+      <h3><a href="https://lastcall-sol.vercel.app">Last Call</a></h3>
+      Finds PreStocks pre-IPO tokens stranded in Solana wallets and converts them before the deadline, even when the holder has 0 SOL. Every figure on the board is read live from Jupiter and the PreStocks API.
+    </td>
+  </tr>
+</table>
 
 ## Agents that move money
 
 | | |
 |:--|:--|
-| [**Ava**](https://www.getava.xyz) | MCP server that gives Claude Code, Cursor and Codex a wallet they cannot drain. Signed spending caps, deterministic policy, typed refusals, receipts re-read from the chain. 8 mainnet settlements across 4 chains. |
 | [**Ava Portfolio Manager**](https://github.com/kamalbuilds/ava-portfolio-manager-ai-agents) | Specialist AI agents that turn a plain-English goal into multi-step DeFi transactions on Avalanche and execute them inside your risk limits. |
 | [**SolMate**](https://github.com/kamalbuilds/solmate-the-solana-defi-ai-agent) | A team of autonomous agents that analyze, recommend and execute DeFi strategies on Solana from natural language. |
 | [**Nansen Hunt Alpha**](https://github.com/kamalbuilds/nansen-hunt-alpha) · [**Exit Window**](https://github.com/kamalbuilds/exit-window) | Smart-money agents on Nansen data. Hunt Alpha detects coordinated whale clusters with a wallet-graph search and gates every trade through 8 risk factors. Exit Window alarms the moment smart money in your Hyperliquid trade starts selling. |
@@ -19,11 +51,9 @@ I've spent years at the frontier where autonomous agents meet programmable money
 
 | | |
 |:--|:--|
-| [**DarkBook**](https://github.com/kamalbuilds/darkbook) | Size-blind orderbook for Solana market makers. Taker size stays hidden until settlement, matching runs under 50ms on MagicBlock ephemeral rollups, settlement is atomic on Solana. |
 | [**HyperTWAP Shield**](https://github.com/kamalbuilds/HyperTWAP-Shield) | TWAP executor built on Hyperliquid's precompiles for private, MEV-resistant, market-aware execution. |
 | [**hyperliq-universal-sdk**](https://github.com/kamalbuilds/hyperliq-universal-sdk) | Hyperliquid SDKs in Go, Java and C#, plus a real-time alerting platform on the Node Info API. |
 | [**zump.fun**](https://github.com/kamalbuilds/zumpfun) | Privacy-first token launchpad on Starknet with Noir zero-knowledge circuits. |
-| [**sealed.cash**](https://sealed.cash) | Hold, send and earn on Starknet without publishing your salary or net worth. |
 | [**Revoke × Attestcoin**](https://github.com/kamalbuilds/revoke-attestcoin) | EIP-7702 kill switch: revoke a delegation on Ethereum mainnet and a vault on Creditcoin freezes in the same transaction. |
 
 ## Tools for builders and their agents
@@ -43,6 +73,13 @@ I've spent years at the frontier where autonomous agents meet programmable money
 | [**checkprint**](https://github.com/kamalbuilds/checkprint) | Delivery QC agent that repairs the master file and re-measures to prove the fix. Gemini on Google Cloud with ClickHouse. |
 | [**pullback**](https://github.com/kamalbuilds/pullback) | Finds out whether anything in your home has been recalled, then gets the manufacturer's remedy delivered. |
 | [**out-of-service**](https://github.com/kamalbuilds/out-of-service) | Accessible NYC subway routing for people and their agents, scored on real elevator outage history. |
+
+## Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kamalbuilds&show_icons=true&count_private=true&include_all_commits=false&hide_border=true&bg_color=0b0f14&title_color=5eead4&icon_color=5eead4&text_color=c9d1d9&rank_icon=github" alt="GitHub stats" height="170">
+  <img src="https://streak-stats.demolab.com/?user=kamalbuilds&hide_border=true&background=0b0f14&ring=5eead4&fire=5eead4&currStreakNum=f0f6fc&sideNums=f0f6fc&currStreakLabel=5eead4&sideLabels=8b949e&dates=6e7681&stroke=222a33" alt="Contribution streak" height="170">
+</p>
 
 ## How I build
 
@@ -70,4 +107,9 @@ I've spent years at the frontier where autonomous agents meet programmable money
 
 Open to collaborations with teams pushing AI agents and on-chain systems forward.
 
-[X @kamalbuilds](https://x.com/kamalbuilds) · [LinkedIn](https://www.linkedin.com/in/kamal-singh7) · [getava.xyz](https://www.getava.xyz)
+<p>
+  <a href="https://x.com/kamalbuilds"><img src="https://img.shields.io/badge/X-@kamalbuilds-0b0f14?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.linkedin.com/in/kamal-singh7"><img src="https://img.shields.io/badge/LinkedIn-kamal--singh7-0b0f14?style=for-the-badge&logo=linkedin&logoColor=5eead4" alt="LinkedIn"></a>
+  <a href="https://t.me/kamalthedev"><img src="https://img.shields.io/badge/Telegram-@kamalthedev-0b0f14?style=for-the-badge&logo=telegram&logoColor=5eead4" alt="Telegram"></a>
+  <a href="https://www.getava.xyz"><img src="https://img.shields.io/badge/Building-getava.xyz-0b0f14?style=for-the-badge&logoColor=5eead4" alt="Ava"></a>
+</p>
